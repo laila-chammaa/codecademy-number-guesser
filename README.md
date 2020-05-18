@@ -1,3 +1,2 @@
 # codecademy-number-guesser
-# codecademy-number-guesser
-# codecademy-numberGuesser
+a small guessing game against the computer
