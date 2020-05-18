@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Lora&display=swap');
+
+.middle {
+    text-align: center;
+}
+
+body {
+    font-family: Lora;
+    font-weight: 10;
+}
+
+.computer, .you {
+    border: black solid 1px;
+    width: 350px;
+    height: 380px;
+}
+.you {
+    float: right;
+}
